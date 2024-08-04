@@ -4,8 +4,10 @@ date = 2024-08-04T14:52:36-03:00
 draft = false
 +++
 
-Here I'm going to start writing, according to the tutorials. All in markdown :)
+Hello there!
 
-*Integrating with LaTeX* should be easy, even though I should start looking into _other integrations_ for making diagrams and such.
+This is the start of a blog I've wnated to make since... some time ago :)
 
-$\sum_{i = 1}^n i^2 = \frac{n(n + 1)(2n + 1)}{6}$
+The idea of this blog, at least for now, is to serve as a braindump of sorts, because I have stuff in my head (mostly tech-related) that I should be putting out there, in the hopes that they can help others solve the problems I've already been through and solved.
+
+So, I started out testing static site generator tools, to see which will be my to-go tool for the job at hand. I started with Hugo; so far, so good, even though I've seen from others that it can get complicated as the site grows, so, we'll see.
